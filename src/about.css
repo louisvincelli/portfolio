@@ -1,0 +1,48 @@
+.backgroundabout {
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url('./images/portfolio-background.jpg');
+}
+
+.about {
+    position: absolute;
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(0,0,0,0.4);
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .about {
+    background-color: var(--primary-color);
+    color: #fff;
+    height: 100vh;
+    position: relative;
+    padding: 10px;
+}
+  
+.about:before {
+    content: '';
+    background-image: url('./images/laketahoe.jpeg') no-repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+} */
+
+.aboutmetitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.aboutme-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}

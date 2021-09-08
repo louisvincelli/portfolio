@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@200&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--primary-color);
+    height: 100vh;
+}
+
+.hometitle {
+    color: white;
+    font-size: 4rem;
+    font-family: 'Azeret Mono', monospace;
+    text-align: center;
+    padding-top: 150px;
+    margin-bottom: 5px;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    margin-bottom:50px;
+}
+
+.github {
+    padding: 3px;
+    margin: 6px;
+}
+.linkedin {
+    padding: 3px;
+    margin: 6px;
+}
+.cv {
+    padding: 3px;
+    margin: 6px;
+}
