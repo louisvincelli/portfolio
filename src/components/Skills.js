@@ -21,7 +21,7 @@ function Skills() {
     // })
 
     return (
-        <div className="skills">
+        <div id="skills">
             <h1>My Skills</h1>
             <div className="skill-list">
                 <ul>
@@ -39,7 +39,7 @@ function Skills() {
                     <li>*</li>
                     <li>HandleBars</li>
                     <li>*</li>
-                    <li>Apollo</li>
+                    <li>Apollo / GraphQL</li>
                     <li>*</li>
                     <li>MongoDB</li>
                     <li>*</li>
