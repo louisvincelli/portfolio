@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9e01fb37.chunk.css",
-    "main.js": "/portfolio/static/js/main.ce4fb8df.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ce4fb8df.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.0a73e0e8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0a73e0e8.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.fcd8c648.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.fcd8c648.js.map",
     "static/js/2.a978bbde.chunk.js": "/portfolio/static/js/2.a978bbde.chunk.js",
@@ -17,6 +17,7 @@
     "static/media/dayplannersc.f6da9f88.png": "/portfolio/static/media/dayplannersc.f6da9f88.png",
     "static/media/deliciososc.b5e9e56e.png": "/portfolio/static/media/deliciososc.b5e9e56e.png",
     "static/media/about.css": "/portfolio/static/media/portfolio-background.21b56b04.jpg",
+    "static/media/varcade.8b406669.png": "/portfolio/static/media/varcade.8b406669.png",
     "static/media/weatherappsc.12c57700.png": "/portfolio/static/media/weatherappsc.12c57700.png",
     "static/media/workouttrackersc.aec33c4c.png": "/portfolio/static/media/workouttrackersc.aec33c4c.png"
   },
@@ -24,6 +25,6 @@
     "static/js/runtime-main.fcd8c648.js",
     "static/js/2.a978bbde.chunk.js",
     "static/css/main.9e01fb37.chunk.css",
-    "static/js/main.ce4fb8df.chunk.js"
+    "static/js/main.0a73e0e8.chunk.js"
   ]
 }
