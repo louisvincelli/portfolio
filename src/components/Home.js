@@ -9,7 +9,7 @@ function Home() {
             <div className="icons">
                 <SocialIcon url="https://github.com/louisvincelli" className="github" target="_blank" />
                 <SocialIcon url="https://www.linkedin.com/in/louis-vincelli-224940205/" className="linkedin" target="_blank" />
-                <SocialIcon url="Resume.pdf" className="cv" target="_blank"/>
+                <SocialIcon url="https://docs.google.com/document/d/1LWhrtbfFXJJyBHnbMn0qCs0ndKD5hzOvkozZULJqDQo/edit" className="cv" target="_blank"/>
             </div>
         </div>
     )

@@ -4,6 +4,7 @@ import weatherapp from '../images/weatherappsc.png';
 import workouttracker from '../images/workouttrackersc.png';
 import delicioso from '../images/deliciososc.png';
 import dayplanner from '../images/dayplannersc.png';
+import varcade from '../images/varcade.png';
 
 
 function Projects() {
@@ -53,7 +54,7 @@ function Projects() {
         </div>
         <div className="col-sm-4">
         <div className="card">
-        <a href="https://www.google.com" target="_blank" rel="noreferrer"><img src={img} className="card-img-top" alt="..."></img></a>
+        <a href="https://varcadex.herokuapp.com" target="_blank" rel="noreferrer"><img src={varcade} className="card-img-top" alt="..."></img></a>
             <div className="card-body">
                 <p className="card-text">A MERN stack application that allows the user to experience an arcade like its the 80's! With different games in a single machine you can play whatever you feel like. Game on!</p>
             </div>
