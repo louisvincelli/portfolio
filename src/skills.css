@@ -17,6 +17,18 @@
     list-style-type: none;
 }
 
+.skill-sections {
+    display: flex;
+    align-items: flex-start;
+    padding:10px;
+}
+
+img {
+    height: 30vh;
+    width: 30vh;
+    padding: 20px;
+}
+
 ul {
     list-style-type: none;
 }
