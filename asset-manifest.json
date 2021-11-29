@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8e02aa98.chunk.css",
-    "main.js": "/portfolio/static/js/main.cf499fd1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.cf499fd1.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.b0904516.chunk.css",
+    "main.js": "/portfolio/static/js/main.9ec0b081.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9ec0b081.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6e201911.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.6e201911.js.map",
     "static/js/2.a978bbde.chunk.js": "/portfolio/static/js/2.a978bbde.chunk.js",
@@ -10,14 +10,16 @@
     "static/js/3.5118b3c7.chunk.js": "/portfolio/static/js/3.5118b3c7.chunk.js",
     "static/js/3.5118b3c7.chunk.js.map": "/portfolio/static/js/3.5118b3c7.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.8e02aa98.chunk.css.map": "/portfolio/static/css/main.8e02aa98.chunk.css.map",
+    "static/css/main.b0904516.chunk.css.map": "/portfolio/static/css/main.b0904516.chunk.css.map",
     "static/js/2.a978bbde.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a978bbde.chunk.js.LICENSE.txt",
     "static/media/LouieV.ac8103c8.pdf": "/portfolio/static/media/LouieV.ac8103c8.pdf",
     "static/media/ballfindersc.3f2bf40f.png": "/portfolio/static/media/ballfindersc.3f2bf40f.png",
     "static/media/codingimg.4c261303.jpeg": "/portfolio/static/media/codingimg.4c261303.jpeg",
     "static/media/dayplannersc.f6da9f88.png": "/portfolio/static/media/dayplannersc.f6da9f88.png",
     "static/media/deliciososc.b5e9e56e.png": "/portfolio/static/media/deliciososc.b5e9e56e.png",
+    "static/media/jslogo.266bd9fb.png": "/portfolio/static/media/jslogo.266bd9fb.png",
     "static/media/about.css": "/portfolio/static/media/portfolio-background.21b56b04.jpg",
+    "static/media/reactlogo.ef20e673.png": "/portfolio/static/media/reactlogo.ef20e673.png",
     "static/media/varcade.8b406669.png": "/portfolio/static/media/varcade.8b406669.png",
     "static/media/weatherappsc.12c57700.png": "/portfolio/static/media/weatherappsc.12c57700.png",
     "static/media/workouttrackersc.aec33c4c.png": "/portfolio/static/media/workouttrackersc.aec33c4c.png"
@@ -25,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.6e201911.js",
     "static/js/2.a978bbde.chunk.js",
-    "static/css/main.8e02aa98.chunk.css",
-    "static/js/main.cf499fd1.chunk.js"
+    "static/css/main.b0904516.chunk.css",
+    "static/js/main.9ec0b081.chunk.js"
   ]
 }
