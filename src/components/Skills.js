@@ -28,7 +28,7 @@ function Skills() {
             <h1>My Skills</h1>
             <div className="skill-list">
                 <h1 className="skill-sections">Languages: JavaScript, Java, C++, HTML, CSS.</h1>
-                <h1 className="skill-sections">Applications: React (MERN stack), Apollo, Express, Express-Session, Express-Handlebars, Node.js, Postman, Insomnia.</h1>
+                <h1 className="skill-sections">Applications: React (MERN stack), Apollo, GraphQL, Express, Express-Session, Express-Handlebars, Node.js, Postman, Insomnia.</h1>
                 <h1 className="skill-sections">Databases: MongoDB, Robo 3t, Atlas, MySQL, Workbench, JAWSDB.</h1>
             </div>
             <div className="skill-imgs">
