@@ -17,3 +17,4 @@ A portfolio made in React.js that summarize and explains the skill of a full sta
 ## Contact 
 * louisvincelli@gmail.com
 * https://www.linkedin.com/in/louis-vincelli-224940205/
+* https://github.com/louisvincelli
