@@ -1,5 +1,5 @@
 import '../contactme.css';
-import Pdf from '../images/Alfredo Louis Vincelli 2.pdf';
+import Pdf from '../images/Alfredo Louis Vincelli.pdf';
 
 function ContactMe() {
     return(
