@@ -4,7 +4,7 @@
     position: relative;
     background-size: cover;
     background-position: 50% 50%;
-    background-image: url('./images/portfolio-background.jpg');
+    background-image: url('./images/ucdpanel.jpeg');
 }
 
 .about {
@@ -16,6 +16,42 @@
     color: white;
     align-items: center;
     justify-content: center;
+}
+
+.about > h2 {
+    font-size: 3.8rem;
+    font-weight: 600;
+    line-height: 5rem;
+    justify-content: start;
+    padding-right: 500px;
+    align-items: start;
+    text-align: start;
+}
+
+.about > p {
+    display: flex;
+    position: relative;
+    justify-content: start;
+    align-items: center;
+    text-align: start;
+    width: 80%;
+    line-height: 2rem;
+}
+
+.aboutme-img {
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    align-items: end;
+    padding-top: 100px;
+    position: relative;
+}
+
+.aboutme-img > img {
+    height: 80vh;
+    width: 60vh;
+    display: flex;
+    flex: 1;
 }
 
 /* .about {
@@ -42,9 +78,10 @@
   
 .aboutme-content {
     display: flex;
-    align-items: center;
-    justify-content: center;
     height: 80vh;
-    padding: 20px;
+    padding-left: 5px;
+    padding-right: 100px;
+    padding-bottom: 50px;
     font-size: 20px;
+    line-height: 2rem;
 }

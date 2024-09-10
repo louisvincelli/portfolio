@@ -1,5 +1,5 @@
 import '../contactme.css';
-import Pdf from '../images/LouieV.pdf'
+import Pdf from '../images/Alfredo Louis Vincelli 2.pdf';
 
 function ContactMe() {
     return(
@@ -22,6 +22,19 @@ function ContactMe() {
                 <ul>
                     <li><a href={Pdf} target="_blank" download="resume">Download Resume</a></li>
                 </ul>
+            </div>
+            <div className="contact-form-content">
+                <form>
+                    <div className="name-container">
+                        <input type="text" name="firstname" placeholder="First Name" />
+                        <input type="text" name="lastname" placeholder="Last Name" />
+                    </div>
+
+                    <input type="text" name="email" placeholder="Email" />
+                    <textarea type="text" name="message" placeholder="Message me here" rows={3} />
+
+                    <button>SEND</button>
+                </form>
             </div>
         </div>
     )
