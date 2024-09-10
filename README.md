@@ -10,8 +10,6 @@ A portfolio made with React.js that summarize and explains the skill of a full s
 
 ![Screenshot2](./src/images/screenshot2.png)
 
-![Screenshot3](./src/images/screenshot3.png)
-
 ![Screenshot4](./src/images/screenshot4.png)
 
 ## Contact 
