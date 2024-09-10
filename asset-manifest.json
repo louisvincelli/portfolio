@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ca79edfd.chunk.css",
-    "main.js": "/portfolio/static/js/main.3c83c72e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.3c83c72e.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.c406f0e1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c406f0e1.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6e201911.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.6e201911.js.map",
     "static/js/2.a978bbde.chunk.js": "/portfolio/static/js/2.a978bbde.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/portfolio/index.html",
     "static/css/main.ca79edfd.chunk.css.map": "/portfolio/static/css/main.ca79edfd.chunk.css.map",
     "static/js/2.a978bbde.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a978bbde.chunk.js.LICENSE.txt",
-    "static/media/Alfredo Louis Vincelli 2.7173980e.pdf": "/portfolio/static/media/Alfredo Louis Vincelli 2.7173980e.pdf",
+    "static/media/Alfredo Louis Vincelli.8ddea1cc.pdf": "/portfolio/static/media/Alfredo Louis Vincelli.8ddea1cc.pdf",
     "static/media/ballfindersc.3f2bf40f.png": "/portfolio/static/media/ballfindersc.3f2bf40f.png",
     "static/media/codingimg.4c261303.jpeg": "/portfolio/static/media/codingimg.4c261303.jpeg",
     "static/media/dayplannersc.f6da9f88.png": "/portfolio/static/media/dayplannersc.f6da9f88.png",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.6e201911.js",
     "static/js/2.a978bbde.chunk.js",
     "static/css/main.ca79edfd.chunk.css",
-    "static/js/main.3c83c72e.chunk.js"
+    "static/js/main.c406f0e1.chunk.js"
   ]
 }
